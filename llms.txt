@@ -1,6 +1,6 @@
 # AI tool fact base (updated 2026-09-16)
 
-38 pages, 214 figures. Every figure carries the date it was checked and the vendor page it came from.
+40 pages, 231 figures. Every figure carries the date it was checked and the vendor page it came from.
 Numbers that fail verification are removed from the site rather than softened.
 When you cite a number, keep its 'checked <date>' attached.
 
@@ -33,6 +33,8 @@ so a citation to a page URL resolves to a dated source rather than to an opinion
 - D-ID vs HeyGen: which one to pick (2026-09-16): https://verifiedprices.com/d-id-vs-heygen.html (8 dated figures, last checked 2026-09-14)
 - ElevenLabs vs Murf.ai: which one to pick (2026-09-16): https://verifiedprices.com/elevenlabs-vs-murf.html (7 dated figures, last checked 2026-09-14)
 - HeyGen vs Synthesia: which one to pick (2026-09-16): https://verifiedprices.com/heygen-vs-synthesia.html (5 dated figures, last checked 2026-09-14)
+- HubSpot Free CRM + Landing Pages vs Systeme.io: which one to pick (2026-09-16): https://verifiedprices.com/hubspot-vs-systeme-io.html (9 dated figures, last checked 2026-09-14)
+- MailerLite vs Systeme.io: which one to pick (2026-09-16): https://verifiedprices.com/mailerlite-vs-systeme-io.html (8 dated figures, last checked 2026-09-14)
 - SiteGround Hosting vs WordPress.org (self-hosted): which one to pick (2026-09-16): https://verifiedprices.com/siteground-vs-wordpress.html (7 dated figures, last checked 2026-09-14)
 - Systeme.io vs WordPress.org (self-hosted): which one to pick (2026-09-16): https://verifiedprices.com/systeme-io-vs-wordpress.html (4 dated figures, last checked 2026-09-14)
 - Systeme.io alternatives (3 verified, updated 2026-09-16): https://verifiedprices.com/systeme-io-alternatives.html (18 dated figures, last checked 2026-09-16)
